@@ -1,6 +1,6 @@
 # MinnigTools
  MinnigTools  BSC/ETH  GFX/CPU
-
+https://github.com/cryptonobo/MinnigTools/blob/master/istockphoto-1170634914-612x612.jpg
 
 Commands Used to Install the Mining Software -
 
