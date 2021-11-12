@@ -16,9 +16,18 @@ make -j$(nproc)
 wget https://raw.githubusercontent.com/xmrig/xmrig/master/src/config.json
 
 
+
+(edit config .json) 
+
+rx.unmineable.com:3333 for CPU 
+
+CAKE:YourAddress.YourWorkerName
+
+no pass
+
 ------------
 
-launch 
+launch from build folder (in xmrig folder)
 
 sudo ./xmrig 
 
@@ -29,10 +38,5 @@ Link :
 
 https://unmineable.com/coins
 
-rx.unmineable.com:3333
-
-CAKE:YourAddress.YourWorkerName
-
-no pass
 
 
