@@ -9,7 +9,7 @@ git clone https://github.com/xmrig/xmrig.git
 
 mkdir xmrig/build && cd xmrig/build
 
-cmake ..
+cmake .. -DARM_TARGET=8 or -DARM_TARGET=7
 
 make -j$(nproc)
 
