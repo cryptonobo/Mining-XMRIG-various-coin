@@ -16,25 +16,25 @@ http://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-20
 
 **Commands Used to Install the Mining Software (Xmrig) -**
 
-sudo apt update
+$ sudo apt update
 
-sudo apt-get install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev
+$ sudo apt-get install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev
 
-git clone https://github.com/xmrig/xmrig.git
+$ git clone https://github.com/xmrig/xmrig.git
 
-mkdir xmrig/build && cd xmrig/build
+$ mkdir xmrig/build && cd xmrig/build
 
-cmake .. 
+$ cmake .. 
 
-make 
+$ make 
 
 
 **( be sure to wget from the build folder (in the xmrig folder)!)**
 
-wget https://raw.githubusercontent.com/xmrig/xmrig/master/src/config.json
+$ wget https://raw.githubusercontent.com/xmrig/xmrig/master/src/config.json
 
 
-sudo nano config.json 
+$ sudo nano config.json 
 
 _exemple _
 
@@ -51,7 +51,7 @@ _exemple _
 
 **be sure to launch from the build folder (in the xmrig folder)**
 
-./xmrig 
+$ ./xmrig 
 
 -------------
 
