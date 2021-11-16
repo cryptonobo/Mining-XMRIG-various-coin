@@ -36,7 +36,7 @@ $ wget https://raw.githubusercontent.com/xmrig/xmrig/master/src/config.json
 
 $ sudo nano config.json 
 
-###### exemple
+### exemple
 
 ![This is an image](https://github.com/cryptonobo/MinnigTools/blob/master/Screenshot%202021-11-16%20at%2006.45.36.png)
 ![This is an image](https://github.com/cryptonobo/MinnigTools/blob/master/Screenshot%202021-11-16%20at%2006.45.28.png)
@@ -54,7 +54,7 @@ $ sudo nano config.json
 $ ./xmrig 
 
 
-##**Enjoy** !
+## **Enjoy** !
 
 ![This is an image](https://github.com/cryptonobo/Mining-XMRIG-various-coin-/blob/master/Screenshot%202021-11-16%20at%2007.06.49.png)
 
@@ -62,7 +62,7 @@ $ ./xmrig
 -------------
 
 
-###**Link :**  of diverse token 
+### **Link :**  of diverse token 
 
 https://unmineable.com/coins
 
