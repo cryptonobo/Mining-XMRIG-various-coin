@@ -5,6 +5,8 @@ lscpu
 
 Commands Used to Install the Mining Software -
 
+sudo apt update
+
 sudo apt-get install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev
 
 git clone https://github.com/xmrig/xmrig.git
