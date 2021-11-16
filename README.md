@@ -33,7 +33,7 @@ sudo nano config.json
 
 "token:YourAddress.YourWorkerName"
 
-("no pass")
+("no pass") "x"
 
 ------------
 
