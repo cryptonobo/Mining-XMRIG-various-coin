@@ -1,9 +1,9 @@
 # MinnigTools
 
 
-lscpu
+(lscpu -DARM_TARGET=8 or -DARM_TARGET=7)
 
-Commands Used to Install the Mining Software -
+**Commands Used to Install the Mining Software -**
 
 sudo apt update
 
@@ -13,35 +13,34 @@ git clone https://github.com/xmrig/xmrig.git
 
 mkdir xmrig/build && cd xmrig/build
 
-cmake .. -DARM_TARGET=8 or -DARM_TARGET=7
+cmake .. 
 
-make -j$(nproc)
+make 
+
+
+**( be sure to wget from the build folder (in the xmrig folder)!)**
 
 wget https://raw.githubusercontent.com/xmrig/xmrig/master/src/config.json
 
 
+sudo nano config .json 
 
-(edit config .json) 
-sudo nano config .json
+"rx.unmineable.com:3333" for CPU 
 
-rx.unmineable.com:3333 for CPU 
+"token:YourAddress.YourWorkerName"
 
-CAKE:YourAddress.YourWorkerName
-
-no pass
+("no pass")
 
 ------------
 
-launch from build folder (in xmrig folder)
+**be sure to launch from the build folder (in the xmrig folder)**
 
 sudo ./xmrig 
 
 -------------
 
 
-Link :
+**Link :**
 
 https://unmineable.com/coins
 
-
-0x185d26a5fc664c474523c8ce88798b2b51a8e195
