@@ -36,7 +36,7 @@ $ wget https://raw.githubusercontent.com/xmrig/xmrig/master/src/config.json
 
 $ sudo nano config.json 
 
-_exemple _
+**_exemple _**
 
 ![This is an image](https://github.com/cryptonobo/MinnigTools/blob/master/Screenshot%202021-11-16%20at%2006.45.36.png)
 ![This is an image](https://github.com/cryptonobo/MinnigTools/blob/master/Screenshot%202021-11-16%20at%2006.45.28.png)
