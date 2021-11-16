@@ -9,7 +9,7 @@
 ## Compatible only with 64arm ! not 32
 
 link below if needed_
-
+https://www.raspberrypi.com/software/
 http://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2021-11-08/
 
 
