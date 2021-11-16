@@ -1,7 +1,7 @@
 ## Mining 
 
-- [x] Raspberry pi (tested on 4b and 3) 
-- [x] 16GB card   
+- [x] Raspberry Pi / Mac / Pc (tested on rspb 3 & 4b and Under Macbook osx & ubuntu) 
+- [x] 16GB card for Raspberry  
 - [x] SSH  & Wifi (can be set ON via rapsberry pi Manager before flashing arm64 OS) use (control + shift + x) in rapsberry pi Manager when opened 
      (very usefull for non screen & keyboard user)
 
@@ -14,7 +14,7 @@ link below if needed_
 http://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2021-11-08/
 
 
-**Commands Used to Install the Mining Software (Xmrig) -**
+## **Commands Used to Install the Mining Software (Xmrig) -**
 
 $ sudo apt update
 
@@ -29,14 +29,14 @@ $ cmake ..
 $ make 
 
 
-**( be sure to wget from the build folder (in the xmrig folder)!)**
+######**( be sure to wget from the build folder (in the xmrig folder)!)**
 
 $ wget https://raw.githubusercontent.com/xmrig/xmrig/master/src/config.json
 
 
 $ sudo nano config.json 
 
-## exemple
+###### exemple
 
 ![This is an image](https://github.com/cryptonobo/MinnigTools/blob/master/Screenshot%202021-11-16%20at%2006.45.36.png)
 ![This is an image](https://github.com/cryptonobo/MinnigTools/blob/master/Screenshot%202021-11-16%20at%2006.45.28.png)
@@ -54,7 +54,7 @@ $ sudo nano config.json
 $ ./xmrig 
 
 
-**Enjoy** !
+##**Enjoy** !
 
 ![This is an image](https://github.com/cryptonobo/Mining-XMRIG-various-coin-/blob/master/Screenshot%202021-11-16%20at%2007.06.49.png)
 
@@ -62,7 +62,7 @@ $ ./xmrig
 -------------
 
 
-**Link :**  of diverse token 
+###**Link :**  of diverse token 
 
 https://unmineable.com/coins
 
