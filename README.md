@@ -2,7 +2,7 @@
 
 - [x] Raspberry Pi / Mac / Pc (tested on rspb 3 & 4b and Under Macbook osx & ubuntu) 
 - [x] 16GB card for Raspberry  
-- [x] SSH  & Wifi (can be set ON via rapsberry pi Manager before flashing arm64 OS) use (control + shift + x) in rapsberry pi Manager when opened 
+- [x] SSH  & Wifi (can be set ON via rapsberry pi Manager before flashing arm64 OS) use (control + shift + x) in rapsberry pi Imager when opened 
      (very usefull for non screen & keyboard user)
 
 ![This is an image](https://github.com/cryptonobo/MinnigTools/blob/master/istockphoto-1170634914-612x612.jpg)
