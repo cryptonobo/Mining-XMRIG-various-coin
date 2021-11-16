@@ -1,7 +1,11 @@
 # MinnigTools
 
+_Compatible only with 64arm 
 
-(lscpu -DARM_TARGET=8 or -DARM_TARGET=7)
+link below if needed_
+
+http://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2021-11-08/
+
 
 **Commands Used to Install the Mining Software -**
 
