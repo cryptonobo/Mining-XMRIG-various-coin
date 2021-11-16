@@ -54,8 +54,7 @@ _exemple _
 $ ./xmrig 
 
 
-**Enjoy!
-**
+**Enjoy** !
 
 ![This is an image](https://github.com/cryptonobo/Mining-XMRIG-various-coin-/blob/master/Screenshot%202021-11-16%20at%2007.06.49.png)
 
