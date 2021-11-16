@@ -39,7 +39,7 @@ sudo nano config .json
 
 **be sure to launch from the build folder (in the xmrig folder)**
 
-sudo ./xmrig 
+./xmrig 
 
 -------------
 
