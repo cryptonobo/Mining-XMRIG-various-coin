@@ -27,7 +27,7 @@ make
 wget https://raw.githubusercontent.com/xmrig/xmrig/master/src/config.json
 
 
-sudo nano config .json 
+sudo nano config.json 
 
 "rx.unmineable.com:3333" for CPU 
 
