@@ -44,7 +44,7 @@ sudo ./xmrig
 -------------
 
 
-**Link :**
+**Link :**  of diverse token 
 
 https://unmineable.com/coins
 
