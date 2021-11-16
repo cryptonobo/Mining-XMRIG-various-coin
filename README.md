@@ -1,4 +1,4 @@
-# MinnigTools
+# Mining 
 
 ![This is an image](https://github.com/cryptonobo/MinnigTools/blob/master/istockphoto-1170634914-612x612.jpg)
 
@@ -9,7 +9,7 @@ link below if needed_
 http://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2021-11-08/
 
 
-**Commands Used to Install the Mining Software -**
+**Commands Used to Install the Mining Software (Xmrig) -**
 
 sudo apt update
 
