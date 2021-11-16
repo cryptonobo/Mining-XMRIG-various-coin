@@ -2,7 +2,8 @@
 
 - [x] Raspberry pi (tested on 4b and 3) 
 - [x] 16GB card   
-- [x] SSH  & Wifi (can be set ON via rapsberry pi Manager before flashing arm64 OS) use (control + shift + x) in rapsberry pi Manager when opened open (very usefull)
+- [x] SSH  & Wifi (can be set ON via rapsberry pi Manager before flashing arm64 OS) use (control + shift + x) in rapsberry pi Manager when opened 
+     (very usefull for non screen & keyboard user)
 
 ![This is an image](https://github.com/cryptonobo/MinnigTools/blob/master/istockphoto-1170634914-612x612.jpg)
 
