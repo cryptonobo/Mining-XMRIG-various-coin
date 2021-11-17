@@ -8,7 +8,7 @@
 ![This is an image](https://github.com/cryptonobo/MinnigTools/blob/master/istockphoto-1170634914-612x612.jpg)
 ## Compatible only with 64arm ! not 32
 
-link below if needed_
+*link below if needed*
 
 https://www.raspberrypi.com/software/
 
