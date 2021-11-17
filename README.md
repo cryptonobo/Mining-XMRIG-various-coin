@@ -49,8 +49,9 @@ $ sudo nano config.json (from the build folder in the xmrig folder)
 ("no pass") "x"
 
 ------------
+## **Commands Used to Launch the Mining Software (Xmrig) -**
 
-**be sure to launch from the build folder (in the xmrig folder)**
+*be sure to launch from the build folder (in the xmrig folder)*
 
 $ ./xmrig 
 
