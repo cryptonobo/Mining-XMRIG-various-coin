@@ -64,7 +64,7 @@ $ ./xmrig
 -------------
 
 
-### **Link :**  of diverse token 
+### **Link :**  of diverse Token / Server Config / Algo GFX OR CPU ...
 
 https://unmineable.com/coins
 
