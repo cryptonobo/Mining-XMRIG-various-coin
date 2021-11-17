@@ -29,13 +29,13 @@ $ cmake ..
 
 $ make 
 
+## **Commands Used to Configure Token / Wallet / Worker -**
 
 ######**( be sure to wget from the build folder (in the xmrig folder)!)**
 
 $ wget https://raw.githubusercontent.com/xmrig/xmrig/master/src/config.json
 
-
-$ sudo nano config.json 
+$ sudo nano config.json (from the build folder in the xmrig folder)
 
 ### exemple
 
